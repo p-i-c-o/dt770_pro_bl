@@ -47,8 +47,8 @@
 - `/[folder]` — [what’s inside] -->
 
 ## Schematics
-- **V1.0.0**: [schematic_rev_1_0_0.pdf](schematic_rev_1_0_0.pdf)
-- **V1.1.0**: [schematic_rev_1_1_0.pdf](schematic_rev_1_1_0.pdf)
+- **V1.0.0**: [schematic_rev_1_0_0.pdf](schematics/schematic_rev_1_0_0.pdf)
+- **V1.1.0**: [schematic_rev_1_1_0.pdf](schematics/schematic_rev_1_1_0.pdf)
 
 <!-- ## Docs
 - **Build / Assembly:** [link]
